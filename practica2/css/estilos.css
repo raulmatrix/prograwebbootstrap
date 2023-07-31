@@ -1,0 +1,15 @@
+.rojo{
+    background-color: red;
+}
+.azul{
+    background-color: blue;
+    border: 6px solid white;
+}
+.negro{
+    background-color: black;
+    color: white;
+}
+.verde{
+    background-color: green;
+    color: white;
+}
